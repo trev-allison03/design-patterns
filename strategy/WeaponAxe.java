@@ -1,5 +1,8 @@
 package strategy;
-
+/**
+ * Axe weapon
+ * @author Trevor Allison
+ */
 import java.util.Random;
 
 public class WeaponAxe implements WeaponBehavior {

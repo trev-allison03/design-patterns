@@ -1,5 +1,9 @@
 package strategy;
 
+/**
+ * Troll player for the game
+ * @author Trevor Allison
+ */
 public class Troll extends Character{
     /**
      * constructor for troll class, sets name with parameter and sets weapon to axe

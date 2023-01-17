@@ -1,4 +1,9 @@
 package strategy;
+
+/**
+ * None weapon in the game
+ * @author Trevor Allison
+ */
 import java.util.Random;
 public class WeaponNone implements WeaponBehavior {
     /**

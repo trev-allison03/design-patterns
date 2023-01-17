@@ -1,6 +1,9 @@
 package strategy;
 import java.util.Random;
-
+/**
+ * Sword weapon in the game
+ * @author Trevor Allison
+ */
 public class WeaponSword implements WeaponBehavior{
     /**
      * method for choosing what attack to do, by using a random number generator

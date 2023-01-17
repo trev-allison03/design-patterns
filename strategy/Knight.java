@@ -1,5 +1,8 @@
 package strategy;
-
+/**
+ * Knight player in the game
+ * @author Trevor Allison
+ */
 public class Knight extends Character{
     /**
      * constructor for the knight class, sets name to parameter and sets weapon to bow

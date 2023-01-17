@@ -1,5 +1,8 @@
 package strategy;
-
+/**
+ * Bow Weapon in the game
+ * @author Trevor Allison
+ */
 import java.util.Random;
 
 public class WeaponBow implements WeaponBehavior{

@@ -1,5 +1,8 @@
 package strategy;
-
+/**
+ * Queen Player for the game
+ * @author Trevor Allison
+ */
 public class Queen extends Character{
     /**
      * constructor for the queen class, sets name with parameter, and sets weapon to knife

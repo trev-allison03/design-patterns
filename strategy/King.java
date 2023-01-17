@@ -1,5 +1,8 @@
 package strategy;
-
+/**
+ * King player in game
+ * @author Trevor Allison
+ */
 public class King extends Character{
     /**
      * Constructor for the king class, sets name using parameter and sets weapon type to sword

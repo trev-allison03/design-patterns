@@ -1,5 +1,8 @@
 package strategy;
-
+/**
+ * Weapon Behavior interface
+ * @author Trevor Allison
+ */
 public interface WeaponBehavior {
     /**
      * declares the attack method

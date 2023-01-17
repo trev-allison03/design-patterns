@@ -1,5 +1,8 @@
 package strategy;
-
+/**
+ * Knife weapon in the game
+ * @author Trevor Allison
+ */
 import java.util.Random;
 
 public class WeaponKnife implements WeaponBehavior{

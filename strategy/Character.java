@@ -1,5 +1,9 @@
 package strategy;
 
+/**
+ * Character parent class
+ * @author Trevor Allison
+ */
 public abstract class Character {
     protected String name;
     protected WeaponBehavior weaponBehavior;
