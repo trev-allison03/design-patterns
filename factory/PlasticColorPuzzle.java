@@ -1,6 +1,12 @@
 package factory;
-
+/**
+ * PlasticColorPuzzle class
+ * @author Trevor Allison
+ */
 public class PlasticColorPuzzle extends Puzzle{
+    /**
+     * Constructor that sets name and material and populates the arraylist
+     */
     public PlasticColorPuzzle(){
         name = "Color Puzzle by Fisher Price";
         material = "plastic";

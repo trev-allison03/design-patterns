@@ -1,6 +1,12 @@
 package factory;
-
+/**
+ * WoodColorPuzzle class
+ * @author Trevor Allison
+ */
 public class WoodColorPuzzle extends Puzzle{
+    /**
+     * Constructor that sets name and material and populates the arraylist
+     */
     public WoodColorPuzzle(){
         name = "Color Puzzle by Melissa and Doug";
         material = "wood";
